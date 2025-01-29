@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7361a32f0a7d6c4b835b9974407e2bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dealDamageSFX: {instanceID: 0}
+  - enemyDeadSFX: {instanceID: 0}
+  - bomberExplodeSFX: {instanceID: 0}
+  - enemyExplodeSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

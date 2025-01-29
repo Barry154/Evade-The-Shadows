@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 3d5394526cbb3cf45bbcc2298f917d7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -275049917986929955
+    second: bomber_explosion_0
+  - first:
+      213: 2506863640196885148
+    second: bomber_explosion_1
+  - first:
+      213: -1635574246593975932
+    second: bomber_explosion_2
+  - first:
+      213: -6213513858405586830
+    second: bomber_explosion_3
+  - first:
+      213: -5403711673491257789
+    second: bomber_explosion_4
+  - first:
+      213: -8100952144232373916
+    second: bomber_explosion_5
+  - first:
+      213: -1729989704275519855
+    second: bomber_explosion_6
+  - first:
+      213: 519817124925503312
+    second: bomber_explosion_7
+  - first:
+      213: -271547730234941106
+    second: bomber_explosion_8
+  - first:
+      213: -8225631420133379525
+    second: bomber_explosion_9
+  - first:
+      213: -5990481783268589973
+    second: bomber_explosion_10
+  - first:
+      213: 5854037644393979678
+    second: bomber_explosion_11
+  - first:
+      213: 5845242588019906125
+    second: bomber_explosion_12
+  - first:
+      213: -5263398986117657252
+    second: bomber_explosion_13
+  - first:
+      213: -6389072381325551498
+    second: bomber_explosion_14
+  - first:
+      213: 6911523339937467619
+    second: bomber_explosion_15
+  - first:
+      213: 2216475521264367885
+    second: bomber_explosion_16
+  - first:
+      213: 9169490804513283584
+    second: bomber_explosion_17
+  - first:
+      213: -8869074906350378336
+    second: bomber_explosion_18
+  - first:
+      213: -8834768853455728409
+    second: bomber_explosion_19
+  - first:
+      213: 2031615182728043666
+    second: bomber_explosion_20
+  - first:
+      213: -1090795548414540943
+    second: bomber_explosion_21
+  - first:
+      213: -3191110305999870165
+    second: bomber_explosion_22
+  - first:
+      213: 8259750843366598441
+    second: bomber_explosion_23
+  - first:
+      213: -3767080935210031224
+    second: bomber_explosion_24
+  - first:
+      213: 4793645089684261222
+    second: bomber_explosion_25
+  - first:
+      213: 5806276506344611558
+    second: bomber_explosion_26
+  - first:
+      213: 5204551518244826771
+    second: bomber_explosion_27
+  - first:
+      213: -3954575077438897997
+    second: bomber_explosion_28
+  - first:
+      213: 856068820938324016
+    second: bomber_explosion_29
+  - first:
+      213: -2382898159942877031
+    second: bomber_explosion_30
+  - first:
+      213: 6646494173719560538
+    second: bomber_explosion_31
+  - first:
+      213: 6417094051749968236
+    second: bomber_explosion_32
+  - first:
+      213: -6533222497998930314
+    second: bomber_explosion_33
+  - first:
+      213: 2209803768677701482
+    second: bomber_explosion_34
+  - first:
+      213: -5456937498959707881
+    second: bomber_explosion_35
+  - first:
+      213: 3220416791883970421
+    second: bomber_explosion_36
+  - first:
+      213: 5415389753267954548
+    second: bomber_explosion_37
+  - first:
+      213: -7753448687964145889
+    second: bomber_explosion_38
+  - first:
+      213: 8603754870765301277
+    second: bomber_explosion_39
+  - first:
+      213: -4373925129964924149
+    second: bomber_explosion_40
+  - first:
+      213: 3106821777475514528
+    second: bomber_explosion_41
+  - first:
+      213: -5601148237880456014
+    second: bomber_explosion_42
+  - first:
+      213: 8552604360672967957
+    second: bomber_explosion_43
+  - first:
+      213: 4975755008150100931
+    second: bomber_explosion_44
+  - first:
+      213: 1022870835388464211
+    second: bomber_explosion_45
+  - first:
+      213: -5558743671028849693
+    second: bomber_explosion_46
+  - first:
+      213: -4536979393212673380
+    second: bomber_explosion_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomber_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 617
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd283ee8e83de2cf0800000000000000
+      internalID: -275049917986929955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 617
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a2746e23b2ac220800000000000000
+      internalID: 2506863640196885148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 624
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892dfb63e54d49e0800000000000000
+      internalID: -1635574246593975932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 623
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a4cef01a25c9a0800000000000000
+      internalID: -6213513858405586830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 623
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3460ce0fcd82205b0800000000000000
+      internalID: -5403711673491257789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 622
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461279c02f2a39f80800000000000000
+      internalID: -8100952144232373916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 522
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961393a787ddf7e0800000000000000
+      internalID: -1729989704275519855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 521
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577957cbe2c63700800000000000000
+      internalID: 519817124925503312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 520
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4168cf27c44b3cf0800000000000000
+      internalID: -271547730234941106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 520
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3278adfdcfa8dd80800000000000000
+      internalID: -8225631420133379525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 520
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb3da9e888ddca0800000000000000
+      internalID: -5990481783268589973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 519
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1ed7b838bd3150800000000000000
+      internalID: 5854037644393979678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 519
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4659e41a297e1150800000000000000
+      internalID: 5845242588019906125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 418
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4e414286a4f6b0800000000000000
+      internalID: -5263398986117657252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 418
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d4da15847557a0800000000000000
+      internalID: -6389072381325551498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 418
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec4bcddbd9aaef50800000000000000
+      internalID: 6911523339937467619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 418
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09bf424eb082ce10800000000000000
+      internalID: 2216475521264367885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 418
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e993efd43904f70800000000000000
+      internalID: 9169490804513283584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 417
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2a7a0fc57bae480800000000000000
+      internalID: -8869074906350378336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_19
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 417
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e016115988946580800000000000000
+      internalID: -8834768853455728409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 317
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9bc6ae3fb13c10800000000000000
+      internalID: 2031615182728043666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 318
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1738c2e5a37bcd0f0800000000000000
+      internalID: -1090795548414540943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 318
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b272acb7516e6b3d0800000000000000
+      internalID: -3191110305999870165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 318
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927691841a780a270800000000000000
+      internalID: 8259750843366598441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 318
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887e8a829d3a8bbc0800000000000000
+      internalID: -3767080935210031224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 318
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6690dedafc2768240800000000000000
+      internalID: 4793645089684261222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 319
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eedd5438b9049050800000000000000
+      internalID: 5806276506344611558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 219
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee33ce7084a3840800000000000000
+      internalID: 5204551518244826771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 219
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b044a75be68e19c0800000000000000
+      internalID: -3954575077438897997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 220
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f0579e0e51eb00800000000000000
+      internalID: 856068820938324016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 220
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9904ca8afbe3eeed0800000000000000
+      internalID: -2382898159942877031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 221
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5102428c371d3c50800000000000000
+      internalID: 6646494173719560538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 222
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6934d47a091e0950800000000000000
+      internalID: 6417094051749968236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_33
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 222
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efe28a0c45555a0800000000000000
+      internalID: -6533222497998930314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 123
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a679a5fc1dccaae10800000000000000
+      internalID: 2209803768677701482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 124
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7118ffcb1401544b0800000000000000
+      internalID: -5456937498959707881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 124
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57772fc720831bc20800000000000000
+      internalID: 3220416791883970421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_37
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 125
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a3d3e944572b40800000000000000
+      internalID: 5415389753267954548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_38
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 126
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17bda17f77366490800000000000000
+      internalID: -7753448687964145889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 127
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea086687da66770800000000000000
+      internalID: 8603754870765301277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_40
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 128
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b035942b442bc43c0800000000000000
+      internalID: -4373925129964924149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a030ea22f5ad1b20800000000000000
+      internalID: 3106821777475514528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 30
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc84d29a59b442b0800000000000000
+      internalID: -5601148237880456014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d7e563a54f0b670800000000000000
+      internalID: 8552604360672967957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_44
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 35
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb582631de6d0540800000000000000
+      internalID: 4975755008150100931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 37
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cbf6afa97f13e00800000000000000
+      internalID: 1022870835388464211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_46
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 38
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3efda25106bd2b0800000000000000
+      internalID: -5558743671028849693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomber_explosion_47
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 37
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c929a42a7496901c0800000000000000
+      internalID: -4536979393212673380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

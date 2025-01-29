@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61236de4a0464ea479e064c4305a0c70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - swordSFX: {fileID: 8300000, guid: 28573a21f739c264795d3e222121871a, type: 3}
+  - damageTakenSFX: {fileID: 8300000, guid: 839155ac5e9bfde46b93678dbdd81d5f, type: 3}
+  - enemyHitSFX: {fileID: 8300000, guid: 268c4c2cd2981164fa1f85cef4c2d468, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

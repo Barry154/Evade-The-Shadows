@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Lever
+  - Enemy
+  - Key
+  - Door
+  - Chest
+  - Hint
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerWeapon
+  - Enemy
+  - Dungeon
+  - EnemyNoCollision
+  - EnemyProjectile
+  - EnemyCorpse
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PressurePlate
+    uniqueID: 4219317633
+    locked: 0
+  - name: PickUpBox
+    uniqueID: 3184881923
+    locked: 0
+  - name: Characters
+    uniqueID: 2916134035
+    locked: 0
+  - name: AboveCharacters
+    uniqueID: 257631367
+    locked: 0
